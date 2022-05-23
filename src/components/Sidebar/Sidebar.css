@@ -1,0 +1,26 @@
+.Sidebarcontainer {
+  background-color: rgba(255, 255, 255, 0.678);
+}
+.col-3 {
+  box-shadow: 20px;
+  padding: 24px;
+}
+.form-check {
+  padding-bottom: 8px;
+}
+h5 {
+  margin-bottom: 16px;
+}
+.rs1 {
+  border-bottom: 1px solid #dedede;
+  padding-bottom: 24px;
+}
+.min {
+  padding-left: 10px;
+}
+.items {
+  padding: 24px 24px;
+}
+.itemend {
+  border-bottom: 1px solid #dedede;
+}

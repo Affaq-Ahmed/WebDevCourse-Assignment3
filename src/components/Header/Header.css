@@ -1,0 +1,36 @@
+.HeaderContainer {
+  background: #007fed;
+  margin-bottom: 16px;
+  min-height: 40px;
+  padding: 24px 0;
+  word-break: break-word;
+}
+h1 {
+  font-size: 2rem;
+  line-height: 1.37;
+  color: white;
+  padding-left: 9%;
+  font-weight: 700;
+}
+.colbtn {
+  text-align: end;
+}
+.btn-primary {
+  background: #f20091;
+  border: 1px solid #f20091;
+  color: #f7f7f7;
+  font-weight: rgba(255, 255, 255, 0.2);
+  text-shadow: 0 -1px transparent;
+  border-radius: 0;
+  font-weight: 700;
+}
+.btn-plain-alt {
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: none;
+  text-shadow: none;
+  border: 1px solid #fff;
+  color: #fff;
+  font-weight: 700;
+  border-radius: 0;
+}
