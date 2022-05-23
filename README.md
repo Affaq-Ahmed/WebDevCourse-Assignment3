@@ -1,3 +1,6 @@
+# **Creating the Login and Signup Modules with the use of Context API**
+Context API used for changing the modules between Sign-up and Login. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
